@@ -1,0 +1,7 @@
+name: BCheck
+author: BirkaSQ
+version: '1.0'
+main: ru.birkasq.bcheck.BCheck
+api-version: '1.16'
+commands:
+  check:
